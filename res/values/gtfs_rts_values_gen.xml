@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <integer name="gtfs_rts_agency_type">2</integer>
+    <bool name="gtfs_rts_schedule_available">true</bool>
+    <bool name="gtfs_rts_frequency_available">false</bool>
+    <string name="gtfs_rts_timezone">America/Edmonton</string>
+    <string name="gtfs_rts_area_min_lat">50.89873</string>
+    <string name="gtfs_rts_area_max_lat">51.13451</string>
+    <string name="gtfs_rts_area_min_lng">-114.235681</string>
+    <string name="gtfs_rts_area_max_lng">-113.948282</string>
+    <string name="gtfs_rts_color">B83A3F</string>
+</resources>
