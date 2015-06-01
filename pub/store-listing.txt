@@ -1,27 +1,25 @@
-Title: Calgary Transit C-Train - Mon…
+Title: Calgary Transit CTrain - MonT…
 ----------
 Short description:
-Calgary Transit C-Trains for MonTransit BETA.
+Calgary Transit C-Trains for MonTransit.
 Schedule. News.
+//  Real-Time.
 ----------
 What's new in this version?:
 Schedule from May 6, 2015 to June 28, 2015.
 Tweets from @calgarytransit.
-
-BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 ----------
 Full description:
-This app adds Calgary Transit C-Trains information to MonTransit BETA.
+This app adds Calgary Transit C-Trains information to MonTransit.
 
 This app provides the schedule as well as news from @calgarytransit on Twitter and YouTube.
-
-BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
+// (offline and real-time)
 
 Calgary Transit C-Trains serve Calgary in Alberta, Canada.
 
-Once this application is installed, the MonTransit BETA app will display C-Trains information (schedule...).
+Once this application is installed, the MonTransit app will display C-Trains information (schedule...).
 
-This application only has a temporary icon and no screen: download the MonTransit BETA app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
+This application only has a temporary icon and no screen: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
 
 You can install this application on the SD card but it is not recommended.
 
@@ -35,6 +33,7 @@ This app is not related with Calgary Transit and the City of Calgary.
 
 Permissions:
 - Other: required to read news from Twitter and YouTube
+// to read real-time schedule from transitlive.com and
 ----------
 Application type: Applications
 ----------
