@@ -5,7 +5,7 @@ Calgary Transit C-Trains for MonTransit.
 Schedule. News.
 ----------
 What's new in this version?:
-Schedule from August 18, 2015 to September 6, 2015.
+Schedule from September 7, 2015 to December 6, 2015.
 Tweets from @calgarytransit.
 ----------
 Full description:
