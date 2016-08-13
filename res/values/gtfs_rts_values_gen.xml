@@ -7,6 +7,6 @@
     <string name="gtfs_rts_area_min_lat">50.89873</string>
     <string name="gtfs_rts_area_max_lat">51.13451</string>
     <string name="gtfs_rts_area_min_lng">-114.235681</string>
-    <string name="gtfs_rts_area_max_lng">-113.948282</string>
+    <string name="gtfs_rts_area_max_lng">-113.948277</string>
     <string name="gtfs_rts_color">B83A3F</string>
 </resources>
