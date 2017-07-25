@@ -5,7 +5,7 @@ Calgary Transit CTrains for MonTransit.
 Schedule. News.
 ----------
 What's new in this version?:
-Schedule from June 26, 2017 to September 3, 2017.
+Schedule from July 24, 2017 to September 3, 2017.
 Tweets from @calgarytransit.
 ----------
 Full description:
