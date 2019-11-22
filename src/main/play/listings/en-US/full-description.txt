@@ -1,14 +1,3 @@
-Title: Calgary Transit CTrain - MonT…
-----------
-Short description:
-Calgary Transit CTrains for MonTransit.
-Schedule. News.
-----------
-What's new in this version?:
-Schedule from October 7, 2019 to December 22, 2019.
-Tweets from @CalgaryTransit.
-----------
-Full description:
 This app adds Calgary Transit C-Trains information to MonTransit.
 
 This app provides the schedule as well as news from @calgarytransit on Twitter and YouTube.
@@ -31,17 +20,3 @@ This app is not related with Calgary Transit and the City of Calgary.
 
 Permissions:
 - Other: required to read news from Twitter and YouTube
-----------
-Application type: Applications
-----------
-Category: Transportation
-----------
-Content rating: Low Maturity
-----------
-Website: https://github.com/mtransitapps/ca-calgary-transit-train-android
-----------
-Email: mtransit.apps+GooglePlay@gmail.com
-----------
-Phone: 
-----------
-Privacy Policy:
