@@ -1,12 +1,12 @@
 This app adds Calgary Transit C-Trains information to MonTransit.
 
-This app provides the schedule as well as news from @calgarytransit on Twitter and YouTube.
+This app provides the schedule as well as news from @calgarytransit on Twitter.
 
 Calgary Transit C-Trains serve Calgary in Alberta, Canada.
 
 Once this application is installed, the MonTransit app will display C-Trains information (schedule...).
 
-This application only has a temporary icon and no screen: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
+This application only has a temporary icon and no screen: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link https://goo.gl/pCk5mV
 
 You can install this application on the SD card but it is not recommended.
 
@@ -19,4 +19,4 @@ https://github.com/mtransitapps/ca-calgary-transit-train-android
 This app is not related with Calgary Transit and the City of Calgary.
 
 Permissions:
-- Other: required to read news from Twitter and YouTube
+- Other: required to read news from Twitter
