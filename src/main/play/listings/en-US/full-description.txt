@@ -10,11 +10,11 @@ This application only has a temporary icon and no screen: download the MonTransi
 
 You can install this application on the SD card but it is not recommended.
 
-The information comes from the GTFS file provided by Calgary Transit and the City of Calgary.
-https://www.calgarytransit.com/developer-resources
-
 This application is free and open-source:
 https://github.com/mtransitapps/ca-calgary-transit-train-android
+
+The information comes from the GTFS file provided by Calgary Transit and the City of Calgary.
+https://data.calgary.ca/Transportation-Transit/Calgary-Transit-Scheduling-Data/npk7-z3bj/about_data
 
 This app is not related with Calgary Transit and the City of Calgary.
 
