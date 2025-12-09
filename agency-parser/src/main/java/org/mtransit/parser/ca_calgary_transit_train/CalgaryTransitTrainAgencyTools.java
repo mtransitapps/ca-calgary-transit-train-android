@@ -59,6 +59,11 @@ public class CalgaryTransitTrainAgencyTools extends DefaultAgencyTools {
 		return "\\-\\d+$";
 	}
 
+	@Override
+	public boolean verifyRouteIdsUniqueness() {
+		returh true; // merge routes
+	}
+
 	private static final Cleaner RLN_STARTS_WITH_RSN = new Cleaner(
 			group(atLeastOne(WORD_CAR)) + " line \\- " + atLeastOne(ANY),
 			"$1",
