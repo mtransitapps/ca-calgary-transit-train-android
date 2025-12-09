@@ -61,7 +61,7 @@ public class CalgaryTransitTrainAgencyTools extends DefaultAgencyTools {
 
 	@Override
 	public boolean verifyRouteIdsUniqueness() {
-		return true; // merge routes
+		return false; // merge routes
 	}
 
 	private static final Cleaner RLN_STARTS_WITH_RSN = new Cleaner(
