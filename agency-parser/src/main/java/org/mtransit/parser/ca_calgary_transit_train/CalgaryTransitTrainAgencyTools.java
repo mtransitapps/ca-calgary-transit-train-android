@@ -26,11 +26,6 @@ public class CalgaryTransitTrainAgencyTools extends DefaultAgencyTools {
 		new CalgaryTransitTrainAgencyTools().start(args);
 	}
 
-	@Override
-	public boolean defaultExcludeEnabled() {
-		return true;
-	}
-
 	@NotNull
 	@Override
 	public String getAgencyName() {
@@ -41,6 +36,11 @@ public class CalgaryTransitTrainAgencyTools extends DefaultAgencyTools {
 	@Override
 	public Integer getAgencyRouteType() {
 		return MAgency.ROUTE_TYPE_LIGHT_RAIL;
+	}
+
+	@Override
+	public @Nullable String getServiceIdCleanupRegex() {
+		return "^\\d{4}[A-Z]{2}-(\\w(LRT)(WK|SU|SA)-)?|-\\d{2}$";
 	}
 
 	@Override
