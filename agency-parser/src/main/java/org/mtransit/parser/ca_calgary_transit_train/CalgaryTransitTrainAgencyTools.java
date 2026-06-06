@@ -40,7 +40,7 @@ public class CalgaryTransitTrainAgencyTools extends DefaultAgencyTools {
 
 	@Override
 	public @Nullable String getServiceIdCleanupRegex() {
-		return "^\\d{4}[A-Z]{2}-(\\w(LRT)(WK|SU|SA)-)?|-\\d{2}$";
+		return "^\\d{4}[A-Z]{2}-(\\w(LRT)(WK|SU|SA)-)?";
 	}
 
 	@Override
