@@ -1,0 +1,66 @@
+{
+    "default_route_id_enabled": true,
+    "use_route_short_name_for_route_id": false,
+    "use_route_short_name_for_route_id_comment": "used GTFS-RT (not true anymore)",
+    "route_id_cleanup_regex": "\\-\\d+$",
+    "route_id_not_unique_allowed": true,
+    "route_id_not_unique_allowed_comment": "merge routes",
+    "use_route_long_name_for_route_short_name": true,
+    "use_route_long_name_for_route_short_name_comment": "use route long name to extract route short name",
+    "route_short_name_cleaners": [
+        {
+             "regex": "^(\\w+) line \\- .*",
+             "ignore_case": true,
+             "replacement": "$1",
+             "comment": "extract route short name from route long name"
+        }
+    ],
+    "default_route_long_name_enabled": true,
+    "route_long_name_cleaners": [
+        {
+            "regex": "^(\\w+) line \\- ",
+            "ignore_case": true,
+            "comment": "remove 'XXX line - ' from route long name"
+        },
+        {
+            "regex": "ctrain",
+            "ignore_case": true,
+            "is_word": true,
+            "comment": "remove 'ctrain' from route long name"
+        }
+    ],
+    "route_colors": [
+        {
+            "route_short_name": "201",
+            "color": "EE2622",
+            "comment": "RED (from PDF map)"
+        },
+        {
+            "route_short_name": "202",
+            "color": "0F4076",
+            "comment": "BLUE (from PDF map)"
+        }
+    ],
+    "direction_finder_enabled": true,
+    "trip_headsign_remove_via": true,
+    "trip_headsign_cleaners": [
+        {
+            "regex": "(\\w)\\s*@\\s*(\\w)",
+            "replacement": "$1 @ $2",
+            "comment": "clean at spacing"
+        }
+    ],
+    "stop_name_cleaners": [
+        {
+            "regex": " (ctrain )?stat?ion$",
+            "replacement": "",
+            "ignore_case": true,
+            "comment": "remove 'CTrain Station' from stop name"
+        },
+        {
+            "regex": "(\\w)\\s*@\\s*(\\w)",
+            "replacement": "$1 @ $2",
+            "comment": "clean at spacing"
+        }
+    ]
+}
