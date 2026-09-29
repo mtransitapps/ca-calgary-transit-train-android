@@ -1,0 +1,31 @@
+{
+    "target_route_type_id": 0,
+    "agency_default_language": "en",
+    "default_color": "B83A3F",
+    "default_color_comment": "LIGHT RED (from web site CSS)",
+    "default_color_enabled": true,
+    "default_strings_cleaner_enabled": true,
+    "to_lower_upper_case_strings": true,
+    "ignore_upper_case_words": [
+        "AM",
+        "PM",
+        "EB",
+        "WB",
+        "NB",
+        "SB",
+        "SE",
+        "SW",
+        "NE",
+        "NW",
+        "LRT",
+        "YYC",
+        "TRW",
+        "MRU",
+        "SAIT",
+        "JG",
+        "EEEL",
+        "AUArts",
+        "CTrain"
+    ],
+    "service_id_cleanup_regex": "^\\d{4}[A-Z]{2}-(\\w(LRT)(WK|SU|SA)-)?"
+}
